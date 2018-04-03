@@ -21,6 +21,6 @@ Set up virtual environment and install dependencies::
     $ make up
     $ make dev_install
 
-Run ``example.py``:
+Run ``example.py``::
 
     $ make run_example
