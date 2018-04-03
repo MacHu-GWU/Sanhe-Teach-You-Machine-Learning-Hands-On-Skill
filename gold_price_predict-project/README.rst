@@ -1,7 +1,9 @@
 An example of using machine learning to predict gold price
 ==============================================================================
 
-`Source Code <https://github.com/MacHu-GWU/Sanhe-Teach-You-Machine-Learning-Hands-On-Skill/blob/master/gold_price_predict-project/example.py>`_
+- `Source Code <https://github.com/MacHu-GWU/Sanhe-Teach-You-Machine-Learning-Hands-On-Skill/blob/master/gold_price_predict-project/example.py>`_
+
+- `Plot <https://github.com/MacHu-GWU/Sanhe-Teach-You-Machine-Learning-Hands-On-Skill/blob/master/gold_price_predict-project/example.png>`_
 
 .. note::
 
