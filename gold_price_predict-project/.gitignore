@@ -1,3 +1,9 @@
+# User Settings
+gold_price_predict_venv/
+gold_price_predict.egg-info/
+gold_price_predict-*/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -44,7 +50,6 @@ nosetests.xml
 coverage.xml
 *,cover
 .hypothesis/
-.pytest_cache/
 
 # Translations
 *.mo
